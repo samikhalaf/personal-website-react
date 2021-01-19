@@ -19,7 +19,6 @@ This web-app is really simple and it's just not a big deal. It's a landing page 
 - [React Router DOM](https://reactrouter.com/)
 - [Node Sass](https://www.npmjs.com/package/node-sass)
 
-
 ## Available Scripts
 
 To see the app:
@@ -33,6 +32,9 @@ Open [http://localhost:3000](http://localhost:3000) to try it on your browser. A
 <br>
 <hr>
 <br>
+
+# Página web personal de Sami
+
 ¡Hola! Soy un desarrollador web fullstack de Madrid, y este es el código fuente de mi página personal, programada en React.
 
 Esta web-app es muy simple y no tiene grandes complicaciones. Es una landing page con enlaces a mis proyectos, desplegados en mi propio servidor casero: una Raspberry Pi 4 4GB con Ubuntu Server 20.04 LTS y corriendo un docker con nginx.
