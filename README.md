@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Sami Khalaf's personal website (Spanish below ↓)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi there! I'm a fullstack web developer from Madrid, and this is the source code of my personal website, coded in React.
+
+This web-app is really simple and it's just not a big deal. It's a landing page with links to my other projects, deployed in my own homemade server: a Raspberry Pi 4 4GB with Ubuntu Server 20.04 LTS, and a docker running nginx.
+
+## Features and implemented tech
+
+- Developed in React (Single Page Application)
+- Mobile-first design, suited for all kind of devices, programmed in SCSS.
+
+## Cool things for the future
+
+- Contact form?
+- Light / Dark mode
+
+## Dependencies
+
+- [React Router DOM](https://reactrouter.com/)
+- [Node Sass](https://www.npmjs.com/package/node-sass)
+
 
 ## Available Scripts
 
-In the project directory, you can run:
+To see the app:
 
-### `npm start`
+`npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in dev mode
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Open [http://localhost:3000](http://localhost:3000) to try it on your browser. All changes applied to the code will be automatically updated.
 
-### `npm test`
+<br>
+<hr>
+<br>
+¡Hola! Soy un desarrollador web fullstack de Madrid, y este es el código fuente de mi página personal, programada en React.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Esta web-app es muy simple y no tiene grandes complicaciones. Es una landing page con enlaces a mis proyectos, desplegados en mi propio servidor casero: una Raspberry Pi 4 4GB con Ubuntu Server 20.04 LTS y corriendo un docker con nginx.
 
-### `npm run build`
+## Features y tecnologías implementadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Desarrollada en React (Single Page Application).
+- Diseño Mobile-first para todo tipo de dispositivos, escrita en SCSS.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Cosas chulas que futuras
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Formulario de contacto
+- Light / dark mode
 
-### `npm run eject`
+## Dependencias
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [React Router DOM](https://reactrouter.com/)
+- [Node Sass](https://www.npmjs.com/package/node-sass)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Available Scripts
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Para ver el proyecto
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+`npm start`
 
-## Learn More
+Arranca la app en modo desarrollo.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador. Todos los cambios en el código serán actualizados automáticamente.
