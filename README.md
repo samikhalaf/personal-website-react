@@ -13,6 +13,7 @@ This web-app is really simple and it's just not a big deal. It's a landing page 
 
 - Contact form?
 - Light / Dark mode
+- Language selector
 
 ## Dependencies
 
@@ -48,6 +49,7 @@ Esta web-app es muy simple y no tiene grandes complicaciones. Es una landing pag
 
 - Formulario de contacto
 - Light / dark mode
+- Selector de idioma
 
 ## Dependencias
 
