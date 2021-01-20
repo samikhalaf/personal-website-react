@@ -1,0 +1,36 @@
+p {
+  margin: 1rem;
+}
+
+.alert {
+  background: rgb(163, 65, 41);
+  padding: 1rem;
+  border-radius: 1rem;
+  color: white;
+}
+
+h3 {
+  margin: 1rem;
+}
+
+h4 {
+  margin: 1rem;
+}
+
+.tech {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ide .languages .frameworks .databases .other {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech-image {
+  margin: 0.5rem;
+  height: 4rem;
+}

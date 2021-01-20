@@ -1,0 +1,35 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  background: black;
+  color: white;
+  width: 100vw;
+
+  margin-top: 3rem;
+  padding: 3rem;
+}
+
+.github-image .linkedin-image {
+  height: 2rem;
+  border: red 4px solid;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(43, 216, 158);
+}
+a {
+  text-decoration: none;
+}
+
+.raspberry {
+  color: rgb(170, 170, 170);
+  max-width: 100%;
+  text-align: justify;
+  .raspberry-center {
+    text-align: center;
+  }
+}
