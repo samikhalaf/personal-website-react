@@ -1,13 +1,49 @@
-body {
+// RESET
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  padding: 0;
+
+  width: 90vw;
+  height: 100vh;
+
+  font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@media all and (min-width: 480px) {
+  body {
+    width: 70%;
+  }
+}
+
+@media all and (min-width: 658px) {
+  body {
+    width: 65%;
+  }
+}
+
+@media all and (min-width: 824px) {
+  body {
+    width: 55%;
+  }
+}
+
+@media all and (min-width: 1024px) {
+  body {
+    width: 40%;
+  }
+}
+
+@media all and (min-width: 1200px) {
+  body {
+    width: 25%;
+  }
 }
