@@ -12,13 +12,16 @@ export default function About() {
             Junior, tanto de front como de backend, me encantan ambos.
           </p>
           <p>
-            Soy entusiasta de la tecnología y el desarrollo de software. Tras
-            varios años trabajando de gestor cultural y productor audiovisual
-            freelance, he decidido dar el salto y pasar del hobby a lo
-            profesional 🔥
+            Si estás contratando, échale un ojo a alguno de mis repos para
+            hacerte una idea de como programo 🔥.
           </p>
         </div>
-
+        <p>
+          Soy entusiasta de la tecnología y el desarrollo de software. Tras
+          varios años trabajando de gestor cultural y productor audiovisual
+          freelance, he decidido dar el salto y pasar del hobby a lo profesional
+          ⚡️.
+        </p>
         <p>
           Recientemente he terminado un Bootcamp de Desarrollo Web Full Stack en
           Upgrade Hub, formación que complemento con certificaciones en
@@ -240,23 +243,3 @@ export default function About() {
     </div>
   );
 }
-
-// ## Soy un desarrollador web de Madrid
-
-// > 🚨 Ahora mismo ando buscando trabajo de Desarrollador Web Fullstack Junior, tanto de front como de backend, me encantan ambos. Si estás contratando, échale un ojo a alguno de mis repos para hacerte una idea de como programo 🔥.
-
-// Como decía, soy un entusiasta de la tecnología y cacharrero en general. Me gusta el desarrollo de software, la ciberseguridad y el software libre.
-
-// Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los que más me entusiasma es el despliegue de mi propio servidor web con una Raspberry Pi, que idealmente alojará mi página web/portfolio, donde se podrán ver en un entorno 100% real todos los proyectillos que tengo por aquí.
-
-// ## Languages and tools // Lenguajes y herramientas
-
-// <br><br><br>
-
-// ## Connect with me // Contacta conmigo
-
-// → samikhalaf94@gmail.com
-
-// → https://www.linkedin.com/in/samikhalaf/
-
-// [→ Download my resume // Descarga mi CV](sami-khalaf-cv3.pdf)
