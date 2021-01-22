@@ -13,7 +13,7 @@ export default function Contact() {
         <p className="link">→ Chafardea mi código en Github</p>
       </a>
 
-      <a href="https://github.com/samikhalaf">
+      <a href="https://www.linkedin.com/in/samikhalaf/">
         {/* <img src={linkedin} alt="linkedin" className="linkedin-image" /> */}
         <p className="link">→ Conecta conmigo en Linked In</p>
       </a>

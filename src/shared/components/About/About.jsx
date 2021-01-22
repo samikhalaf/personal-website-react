@@ -12,17 +12,23 @@ export default function About() {
             Junior, tanto de front como de backend, me encantan ambos.
           </p>
           <p>
-            Si estás contratando, échale un ojo a alguno de mis repos para
-            hacerte una idea de como programo 🔥.
+            Soy entusiasta de la tecnología y el desarrollo de software. Tras
+            varios años trabajando de gestor cultural y productor audiovisual
+            freelance, he decidido dar el salto y pasar del hobby a lo
+            profesional 🔥
           </p>
         </div>
 
         <p>
-          Como decía, soy un entusiasta de la tecnología y cacharrero en
-          general. Me gusta el desarrollo de software, la ciberseguridad y el
-          software libre.
+          Recientemente he terminado un Bootcamp de Desarrollo Web Full Stack en
+          Upgrade Hub, formación que complemento con certificaciones en
+          seguridad y sistemas. Tengo ganas de continuar desarrollandome como
+          profesional en un entorno de trabajo real.
         </p>
-        <p>He terminado recientemente el bootcamp de Full-stack web development en Upgrade Hub, en Madrid. </p>
+        <p>
+          Tengo facilidad para trabajar en equipo, y aportar soluciones
+          creativas a los contratiempos que se ocasionan.
+        </p>
       </div>
 
       <div className="tech">
